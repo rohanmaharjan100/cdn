@@ -1,47 +1,43 @@
-<html lang="en">
+// const API_URL = "http://localhost:8888/api/jobscdn?gh_jid=4202444007";
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style type="text/css">
-        @import url("https://cms.harness.io/uploads/job_listing_ba960241f2.css");
-    </style>
-    <meta property="og:image" content="https://developer.harness.io/img/harness-platform.svg">
+const API_URL = "http://localhost:8888/api/jobscdn";
+// const urlParams = new URLSearchParams(window.location.search);
+// const gh_jid = urlParams.get("gh_jid");
+const gh_jid = 4202444007;
 
-</head>
-
-<body>
-    <div id="grnhse_app">Loading...</div>
-    <script src="https://boards.greenhouse.io/embed/job_board/js?for=harnessinc"></script>
-    <script>
-    async function main() {
-  const urlParams = new URLSearchParams(window.location.search);
-  const gh_jid = urlParams.get("gh_jid");
-  const response = await fetch(
-    `https://boards-api.greenhouse.io/v1/boards/harnessinc/jobs/${gh_jid}`
-  );
-  let data = await response.json();
-
-
-  const head = document.getElementsByTagName("head")[0];
-
-  
-
-  const meta2 = document.createElement("meta");
-  meta2.setAttribute("property", "og:title");
-  meta2.setAttribute("content", data.title);
-  head.appendChild(meta2);
+async function fetchData() {
+  try {
+    const response = await fetch(`${API_URL}?gh_jid=${gh_jid}`);
+    const data = await response.json();
+    return data.html;
+  } catch (error) {
+    console.error("Error fetching data:", error);
+    return null;
+  }
 }
 
-main();
+async function displayHTML() {
+  try {
+    const html = await fetchData();
+    if (html) {
+      writeHTML(html);
+      console.log(html);
+    } else {
+      console.error("No HTML data received.");
+    }
+  } catch (error) {
+    console.error("Error displaying HTML:", error);
+  }
+}
 
-console.log("Metatag");
-    </script>
-</body>
+function writeHTML(html) {
+  // Replace the content of a div with id 'result' with the fetched HTML
+  const resultDiv = document.getElementById("result");
+  if (resultDiv) {
+    resultDiv.innerHTML = html;
+  } else {
+    console.error("Result div not found.");
+  }
+}
 
-
-
-
-
-</html>
+displayHTML();
