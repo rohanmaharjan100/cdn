@@ -1,0 +1,177 @@
+<svg width="459" height="400" viewBox="0 0 459 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_1_266" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-24" y="-1" width="483" height="401">
+<rect x="-23.9999" y="-0.00012207" width="483" height="400" fill="url(#pattern0_1_266)"/>
+</mask>
+<g mask="url(#mask0_1_266)">
+<g style="mix-blend-mode:color-dodge" filter="url(#filter0_f_1_266)">
+<path d="M109.405 81.7642C109.405 81.7642 72.619 34.6776 40.3501 81.7647C8.08125 128.852 -0.308658 241.865 -0.308658 241.865" stroke="#EAEAF0" stroke-width="20" stroke-linecap="round"/>
+</g>
+<g style="mix-blend-mode:color-dodge" filter="url(#filter1_f_1_266)">
+<path d="M253.722 172.042C253.722 172.042 216.936 124.955 184.667 172.042C152.398 219.13 144.008 332.143 144.008 332.143" stroke="url(#paint0_linear_1_266)" stroke-width="8" stroke-linecap="round"/>
+</g>
+<g filter="url(#filter2_f_1_266)">
+<circle cx="91.3453" cy="351.797" r="76.7999" fill="#739CEB"/>
+</g>
+<g filter="url(#filter3_f_1_266)">
+<ellipse cx="265.658" cy="24.1628" rx="43.5262" ry="31.5286" fill="#739CEB"/>
+</g>
+<g filter="url(#filter4_f_1_266)">
+<ellipse cx="198.704" cy="375.773" rx="45.5314" ry="96.5484" transform="rotate(90 198.704 375.773)" fill="#232528"/>
+</g>
+<g filter="url(#filter5_f_1_266)">
+<ellipse cx="138.201" cy="83.6875" rx="45.5314" ry="55.4056" fill="#5887E1"/>
+</g>
+<g opacity="0.2" filter="url(#filter6_f_1_266)">
+<circle cx="118.689" cy="16.4214" r="76.7999" fill="#739CEB"/>
+</g>
+<g opacity="0.4" filter="url(#filter7_f_1_266)">
+<ellipse cx="157.959" cy="38.1939" rx="129.463" ry="76.2513" fill="#594537"/>
+</g>
+<g filter="url(#filter8_f_1_266)">
+<ellipse cx="438.657" cy="96.7584" rx="45.5314" ry="96.5484" transform="rotate(90 438.657 96.7584)" fill="#232528"/>
+</g>
+<g filter="url(#filter9_f_1_266)">
+<ellipse cx="324.994" cy="252.288" rx="64.1828" ry="108.068" fill="#FFAA5C"/>
+</g>
+<g style="mix-blend-mode:color-burn" filter="url(#filter10_f_1_266)">
+<ellipse cx="314.216" cy="182.175" rx="64.1828" ry="108.068" fill="#FFAA5C"/>
+</g>
+<g style="mix-blend-mode:screen" filter="url(#filter11_f_1_266)">
+<ellipse cx="342.534" cy="230.458" rx="40.0456" ry="123.428" fill="white"/>
+</g>
+<g filter="url(#filter12_f_1_266)">
+<circle cx="338.003" cy="211.741" r="76.2513" fill="#594537"/>
+</g>
+<g filter="url(#filter13_f_1_266)">
+<ellipse cx="340.037" cy="135.177" rx="23.04" ry="18.1028" fill="#FDDEC1"/>
+</g>
+<g filter="url(#filter14_f_1_266)">
+<ellipse cx="383.563" cy="130.155" rx="23.04" ry="18.1028" fill="#FDDEC1"/>
+</g>
+<g filter="url(#filter15_f_1_266)">
+<ellipse cx="383.208" cy="281.078" rx="23.04" ry="18.1028" fill="#FDDEC1"/>
+</g>
+<g filter="url(#filter16_f_1_266)">
+<ellipse cx="366.264" cy="305.934" rx="23.04" ry="18.1028" fill="#FDDEC1"/>
+</g>
+<g style="mix-blend-mode:overlay" filter="url(#filter17_f_1_266)">
+<circle cx="153.305" cy="37.0873" r="43.3371" fill="white"/>
+</g>
+<g style="mix-blend-mode:overlay" filter="url(#filter18_f_1_266)">
+<circle cx="86.9" cy="76.1492" r="43.3371" fill="white"/>
+</g>
+<g style="mix-blend-mode:overlay" filter="url(#filter19_f_1_266)">
+<circle cx="136.337" cy="88.6527" r="43.3371" fill="white"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0_1_266" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_266" transform="matrix(0.00101215 0 0 0.00122217 0 -0.10375)"/>
+</pattern>
+<filter id="filter0_f_1_266" x="-24.3091" y="36.8353" width="157.715" height="229.03" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="7" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter1_f_1_266" x="136.008" y="143.114" width="125.714" height="197.029" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter2_f_1_266" x="-125.455" y="134.997" width="433.6" height="433.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="70" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter3_f_1_266" x="182.132" y="-47.3658" width="167.052" height="143.057" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter4_f_1_266" x="62.1557" y="290.242" width="273.097" height="171.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter5_f_1_266" x="2.66937" y="-61.7181" width="271.063" height="290.811" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="45" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter6_f_1_266" x="-88.1112" y="-190.378" width="413.6" height="413.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="65" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter7_f_1_266" x="-111.504" y="-178.057" width="538.925" height="432.503" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="70" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter8_f_1_266" x="302.108" y="11.2271" width="273.097" height="171.063" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter9_f_1_266" x="180.811" y="64.2192" width="288.366" height="376.137" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter10_f_1_266" x="170.033" y="-5.8938" width="288.366" height="376.137" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter11_f_1_266" x="222.488" y="27.0299" width="240.091" height="406.857" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="40" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter12_f_1_266" x="121.752" y="-4.51062" width="432.503" height="432.503" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="70" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter13_f_1_266" x="297.997" y="98.0744" width="84.0799" height="74.2056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="9.5" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter14_f_1_266" x="341.523" y="93.0522" width="84.0799" height="74.2056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="9.5" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter15_f_1_266" x="341.168" y="243.975" width="84.0799" height="74.2056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="9.5" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter16_f_1_266" x="324.224" y="268.831" width="84.0799" height="74.2056" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="9.5" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter17_f_1_266" x="71.9683" y="-44.2498" width="162.674" height="162.674" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="19" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter18_f_1_266" x="5.56291" y="-5.18787" width="162.674" height="162.674" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="19" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<filter id="filter19_f_1_266" x="55.0001" y="7.31567" width="162.674" height="162.674" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="19" result="effect1_foregroundBlur_1_266"/>
+</filter>
+<linearGradient id="paint0_linear_1_266" x1="214.225" y1="151.114" x2="144.008" y2="291.548" gradientUnits="userSpaceOnUse">
+<stop stop-color="#131192"/>
+<stop offset="1" stop-color="#131192" stop-opacity="0.2"/>
+</linearGradient>
+<image id="image0_1_266" width="988" height="988" xlink:href="data:image/png;base64,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"/>
+</defs>
+</svg>
