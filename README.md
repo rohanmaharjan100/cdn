@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/rohanmaharjan100/cdn/jobsOG.js
+https://cdn.jsdelivr.net/gh/rohanmaharjan100/cdn/logo.svg
