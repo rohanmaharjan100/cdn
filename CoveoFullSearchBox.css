@@ -95,9 +95,9 @@
   --mod-opensource-100: #f3f3fa;
 }
 /***************** modal **********************/
-body {
+.page-body {
   background-color: black;
-  display: flex;
+  display: inline-flex;
   justify-content: center;
 }
 .search-box-modal {
