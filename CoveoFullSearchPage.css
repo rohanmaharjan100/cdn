@@ -1,0 +1,145 @@
+
+body {
+  background: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.06) 9%,
+      rgba(255, 255, 255, 0.06) 9%
+    ),
+    linear-gradient(0deg, #070707, #070707);
+}
+
+atomic-search-interface {
+  /* background-color: #575757; */
+  /* background: linear-gradient(180deg, #070707, rgba(255, 255, 255, 0.6)); */
+  background: linear-gradient(0deg, #070707, #070707),
+    linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
+
+  padding: 40px;
+  font-size: 12px !important;
+}
+
+atomic-search-layout {
+  display: flex !important;
+  justify-content: flex-start !important;
+  gap: 40px;
+}
+
+atomic-facet::part(facet) {
+  background-color: transparent;
+  border: none;
+  color: white !important;
+}
+atomic-facet::part(search-input) {
+  color: black !important;
+}
+atomic-facet::part(label-button) {
+  background-color: transparent;
+  border: none;
+  color: white !important;
+  border-bottom: 1px solid #646464;
+  padding: 0;
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 19.18px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+atomic-facet::part(value-checkbox-label):hover {
+  background-color: transparent;
+}
+
+atomic-facet::part(value-checkbox) {
+  border-color: white;
+  width: 16px;
+  height: 16px;
+  margin-right: 8px;
+}
+
+atomic-facet::part(value-checkbox-label) {
+  color: #dddddd;
+  margin-right: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16.44px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+atomic-facet::part(value-count) {
+  color: #dddddd;
+
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16.44px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+atomic-query-summary::part(container) {
+  color: white;
+}
+
+atomic-result-list::part(outline)::before {
+  background-color: transparent;
+}
+atomic-result-list::part(outline) {
+  background-color: rgba(255, 255, 255, 0.07);
+
+  margin-bottom: 16px;
+  padding: 16px;
+
+  padding: 24px;
+  gap: 16px;
+  border-radius: 8px;
+  display: flex;
+}
+
+atomic-breadbox::part(label) {
+  color: white;
+}
+atomic-breadbox::part(breadcrumb-button) {
+  background-color: transparent;
+  color: #00ade4;
+  border: none;
+}
+atomic-breadbox::part(breadcrumb-label) {
+  margin-right: 4px;
+}
+
+atomic-breadbox::part(breadcrumb-button):hover {
+  border: 1px solid #00ade4;
+}
+atomic-breadbox::part(clear) {
+  color: #00ade4;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 14px; /* Optional: add padding if needed */
+}
+
+atomic-breadbox::part(clear)::after {
+  content: ' All Filter';
+  color: #00ade4;
+}
+
+atomic-sort-dropdown::part(label) {
+  color: white;
+  font-size: 14px;
+}
+
+atomic-results-per-page::part(label) {
+  color: white;
+}
+
+/* Target container within atomic-modal */
+atomic-refine-modal::part(container),
+atomic-refine-modal::part(footer-wrapper) {
+  background: linear-gradient(0deg, #070707, #070707),
+    linear-gradient(0deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
+}
+
+atomic-refine-modal::part(section-title),
+atomic-refine-modal::part(close-button),
+atomic-refine-modal::part(title) {
+  color: white;
+}
