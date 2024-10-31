@@ -127,7 +127,7 @@ body {
 }
 atomic-search-interface {
   max-height: 100px;
-  max-width: 100%;
+  max-width: 100% !important;
  
 }
 atomic-layout-section {
